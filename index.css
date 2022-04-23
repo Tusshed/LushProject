@@ -1,0 +1,48 @@
+
+      h1{
+         color :rgba(39, 35, 35, 0.918);
+         font-family: arial,sans-serif;
+         font-size: 14px;
+      }
+      .get{
+         color :#EAF2F8;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+         width: 430px;
+         border: 2px solid;
+         border-radius: 40px;
+      }
+      img{
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+      }
+      .searchbtn{
+         background-color:#f8f9fa ;
+         color: #3c4043;
+         font-size: 14px;
+         height: 30px;
+         cursor:pointer;
+
+      }
+      .feeling{
+         background-color: #f8f9fa;
+         color: #3c4043;
+         font-size: 14px;
+         height: 30px;
+         cursor:pointer;
+      }
+      footer{
+      display: block;
+      font-size: 14px;
+   font-family: arial,sans-serif;
+   color: #70757a;
+      }
+      .footing{
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+      font-size: 15px;
+   font-family: arial,sans-serif;
+   color: #70757a;
+   
+      }
